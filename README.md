@@ -1,5 +1,8 @@
 # pivnica
 
-Pavljenje Spring aplikacije sa komunikacijom sa mySQL bazom podataka plus AngularJS 
+Pravljenje Spring aplikacije sa komunikacijom sa MySQL bazom podataka plus AngularJS. 
 
-paginacija,validacija je ukljucena
+Paginacija,Validacija je ukljucena.
+
+---
+Uvesti sektor za kontakt/slanje poruka preko SPA.
